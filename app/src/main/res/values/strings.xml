@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PIRTI_FormInput</string>
+    <string-array name="dataSpinnerLokasi">
+        <item>Bantul</item>
+        <item>Sleman</item>
+        <item>Yogyakarta</item>
+        <item>Westprog</item>
+    </string-array>
+</resources>
